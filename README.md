@@ -2,10 +2,9 @@
 
 I'm Wessley Silva!
 
-- 🔭 I’m currently working on start my portfolio and start my carreer as a dev. 
-- 🌱 I’m currently learning Javascript for Front-End and Python Flask. 
+- 🔭 I’m currently working on a Typescript/React project, as a Front-End developer Jr., where I'm creating new pages for a SaaS and fixing some previous issues. 
+- 🌱 I’m currently learning React and Typescript but already used Flask and Python for a while; 
 - 📫 How to reach me: text me out on Linkedin.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm too a musician, and someday I want to mix my dev skills to create some music app or site. 
 
 <picture>
