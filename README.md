@@ -25,7 +25,6 @@ Developing new features and fixing issues for greatests stores using Javascript/
   <img align="center" alt="wess-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="wess-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="wess-tailwind" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="wess-tailwind" height="60" width="80" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/shopify_logo_icon_147240.png" />
   <img align="center" alt="liquid" height="80" width="80" src="https://repository-images.githubusercontent.com/504051433/dbab2f42-150c-4eaf-8e30-4bce79758e16" />
  
 <!--   <img align="center" alt="wess-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
