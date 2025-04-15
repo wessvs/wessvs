@@ -1,8 +1,9 @@
 I'm Wessley Silva!
 
 I'm currently working as an Frontend Developer at Check Commerce, brazilian biggest Shopify Developer Agency and Fullcommerce. 
-Developing new features and fixing issues for greatests stores using Javascript/Vanilla, CSS, HTML, SASS and Liquid, from Shopify.
+Developing new features and fixing issues for greatests stores using Javascript/Vanilla, CSS, HTML, SASS and Liquid, from Shopify. 
 
+My brand new goals is to improve my english skills from communicational to professional and got a technical badge from Shopify certifications. 
 
 <picture>
   <source
